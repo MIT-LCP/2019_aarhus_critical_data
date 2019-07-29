@@ -1,7 +1,7 @@
 # 2019 MLHC Workshop - Community Data Challenge
 
-## Thursday August 8th, 2019
-## UM North Quad Dining Room
+**Date**: Thursday, 8 August 2019  
+**Location**: UM North Quad Dining Room, University of Michigan
 
 | Time                | Agenda                                     |
 |------------------|:-------------------------------------------|
