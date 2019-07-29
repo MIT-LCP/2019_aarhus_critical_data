@@ -4,13 +4,13 @@
 ## UM North Quad Dining Room
 
 | Time                | Agenda                                     |
-|---------------------|:-------------------------------------------|
-| 10:00am - 12:00pm   | Learn. Introduction to the datasets and Google Cloud Platform (GCP)<br>What are the data?<br>Where did they come from?|
-| 12:00pm - 1:15pm    | Lunch & Connect. Team Formation |
-| 1:15pm - 2:30pm     | Explore. Hands-on worksheet/tutorial exploring the data within GCP. |
-| 2:30pm   - 4:00pm   | Collaborate. Discuss opportunities with teammates. Working in interdisciplinary teams articulate a technically interesting, clinically relevant problem that could be solved using these data. |
-| 4:00pm - 5:00pm     | Pitch. Each team will present their problem to a panel of judges. | 
-| 5:00pm - 5:30pm     | GCP Prizes & Closing Remarks. |
+|------------------|:-------------------------------------------|
+| *10:00 - 12:00*  | **Learn**.<br>Introduction to the datasets and Google Cloud Platform (GCP)<br>What are the data?<br>Where did they come from?|
+| *12:00 - 13:15*  | **Lunch & Connect**.<br>Team Formation |
+| *13:15 - 14:30*  | **Explore**.<br>Hands-on worksheet/tutorial exploring the data within GCP. |
+| *12:30 - 16:00*  | **Collaborate**.<br>Discuss opportunities with teammates.<br> Working in interdisciplinary teams articulate a technically interesting, clinically relevant problem that could be solved using these data. |
+| *16:00 - 17:00*  | **Pitch**.<br>Each team will present their problem to a panel of judges. | 
+| *17:00 - 17:30*  | **GCP Prizes & Closing Remarks**. |
 
 Details: With an effort to engage interdisciplinary teams and accelerate research in precision health, we will introduce two datasets at this event i) the clinical data from the Michigan Genomics Initiative Cohort and ii) the Philips eICU dataset. 
 
