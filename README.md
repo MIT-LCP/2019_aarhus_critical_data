@@ -1,5 +1,17 @@
 # 2019 MLHC Workshop - Community Data Challenge
 
+## Tutorial Notebooks
+
+You can open the following tutorial notebooks on Colab and get started instantly. Requirements for these notebooks are: (1) you have a Google account, and (2) your Google account has been added to the 2019-mlhc-workshop Google group.
+
+* [01_access_the_data.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_mlhc_workshop/blob/master/notebooks/01_access_the_data.ipynb)
+* [02_explore_patients.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_mlhc_workshop/blob/master/notebooks/02_explore_patients.ipynb)
+* [03_severity_of_illness.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_mlhc_workshop/blob/master/notebooks/03_severity_of_illness.ipynb)
+* [04_summary_statistics.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_mlhc_workshop/blob/master/notebooks/04_summary_statistics.ipynb)
+* [05_prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_mlhc_workshop/blob/master/notebooks/05_prediction.ipynb)
+
+## Agenda
+
 **Date**: Thursday, 8 August 2019  
 **Location**: UM North Quad Dining Room, University of Michigan
 
