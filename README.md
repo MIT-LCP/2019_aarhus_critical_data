@@ -38,4 +38,4 @@ Datasets can also be queried directly from R. This is exemplified in the followi
 
 ## Accessing MIMIC-CXR
 
-The dataset used in the MIMIC-CXR tutorial is preprocessed for optimal use with [Tensorflow](https://www.tensorflow.org/). If you use a different library or just want a simpler representation of the data, the MIMIC-CXR dataset is available as JPEG images and CSV tables in the following GCP bucket: `gs://physionet-data-mimic-cxr-jpg`
+The dataset used in the MIMIC-CXR tutorial is preprocessed for optimal use with [Tensorflow](https://www.tensorflow.org/). If you use a different library or just want a simpler representation of the data, the MIMIC-CXR dataset is available as JPEG images and CSV tables in the following GCP bucket: `gs://physionet-data-mimic-cxr-jpg`. The URL for the bucket is <https://console.cloud.google.com/storage/browser/physionet-data-mimic-cxr-jpg>
